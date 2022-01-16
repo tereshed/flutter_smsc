@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:smsc/smsc.dart';
+import 'package:flutter_smsc/flutter_smsc.dart';
 
 void main() {
   test('adds one to input values', () {
